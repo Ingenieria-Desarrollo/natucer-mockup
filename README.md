@@ -1,5 +1,8 @@
-﻿# Natucer · mockup
+# Natucer · mockup
 
 Prototipo de la nueva web de Natucer. Publicado con GitHub Pages.
-Contenido de natucer.es usado como referencia de diseño; prototipo interno, tipografía y textos provisionales.
 
+- **Versión clara** (estilo Zara): `/`
+- **Versión oscura** (estilo Porsche × Abysm): `/oscura/`
+
+Un selector «Clara / Oscura» abajo a la derecha permite cambiar de una a otra. Prototipo interno: textos y tipografías provisionales. Con la etiqueta noindex.
